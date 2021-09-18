@@ -1,6 +1,6 @@
 ## E aí pessoal, tudo bom? Eu me chamo Iago de Assis. 👋
 ### _Motivação_
-#### Minha principal motivação com a criação do perfil _Debugando Tudo_ segue sendo dividir com vocês os meus projetos diversos, no intuito de mostrar um pouco do que eu faço no meu dia a dia como _Desenvolvedor de Sistema_.
+#### Minha principal motivação com a criação do perfil _Debugando Tudo_ segue sendo dividir com vocês os meus projetos diversos, no intuito de mostrar um pouco do que eu faço no meu dia a dia como _Desenvolvedor de Sistemas_.
 ### _Minhas estatísticas_
 ![Debugando Tudo Status](https://github-readme-stats.vercel.app/api?username=debugandotudo&show_icons=true)[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=debugandotudo&layout=compact)](https://github.com/debugandotudo/)
 ### _Minhas Mídias Sociais_
